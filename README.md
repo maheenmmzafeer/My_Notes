@@ -1,12 +1,10 @@
-# 🌸 Smart Pink Notes App
+# 🌸 My Pink Notes App
 
 ## 📱 About This Project
 
-Smart Pink Notes is a simple and elegant mobile note-taking application built using Flutter.
+Smart Pink Notes is a simple and elegant mobile note-taking application built using Flutter, designed to help users manage notes easily with a clean pastel pink user interface.
 
-The app is designed to help users manage notes easily with a clean pastel pink user interface.
-
-Developed as a Flutter project for learning and portfolio demonstration.
+Developed as a Flutter project for ***learning and portfolio demonstration***.
 
 ---
 
@@ -25,7 +23,6 @@ Permanently delete notes
 ### 📌 Pinning System
 
 You can pin important notes so they stay at the top of the list.
-
 Pinned notes are marked with a 📌 icon.
 
 ---
@@ -33,7 +30,6 @@ Pinned notes are marked with a 📌 icon.
 ### 🔍 Search Feature
 
 Search inside note titles and note content.
-
 Matching text is highlighted while searching.
 
 ---
@@ -49,7 +45,6 @@ Adjust body text size
 ### ↩️ Editing Tools
 
 Simple editing interface.
-
 Supports saving changes to notes.
 
 ---
@@ -57,9 +52,7 @@ Supports saving changes to notes.
 ### 🗑️ Recycle Bin System
 
 Deleted notes are not removed immediately.
-
 Instead, they move to the recycle bin.
-
 Notes inside recycle bin are automatically removed after 30 days.
 
 ---
@@ -67,11 +60,8 @@ Notes inside recycle bin are automatically removed after 30 days.
 ### 💾 Storage System
 
 All notes are saved locally on the device.
-
 The app uses **SharedPreferences** for storing notes data.
-
 Notes are converted into JSON format before storage.
-
 This helps keep data even after restarting the app.
 
 ---
@@ -99,13 +89,11 @@ Some possible upgrades for the app:
 
 ⭐ Cloud backup and synchronization  
 ⭐ Dark mode support  
-⭐ Biometric security lock  
 ⭐ Rich text formatting (bold, italic, underline)  
 ⭐ Note sharing feature  
 ⭐ Auto-save while typing  
 ⭐ Advanced search filtering  
 ⭐ Image attachment inside notes  
-⭐ Animation effects for smoother UI
 
 ---
 
