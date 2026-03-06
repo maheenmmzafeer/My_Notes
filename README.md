@@ -22,15 +22,15 @@ Permanently delete notes
 
 ### 📌 Pinning System
 
-You can pin important notes so they stay at the top of the list.
-Pinned notes are marked with a 📌 icon.
+You can pin important notes so they stay at the top of the list
+Pinned notes are marked with a 📌 icon
 
 ---
 
 ### 🔍 Search Feature
 
-Search inside note titles and note content.
-Matching text is highlighted while searching.
+Search inside note titles and note content
+Matching text is highlighted while searching
 
 ---
 
@@ -44,25 +44,25 @@ Adjust body text size
 
 ### ↩️ Editing Tools
 
-Simple editing interface.
-Supports saving changes to notes.
+Simple editing interface
+Supports saving changes to notes
 
 ---
 
 ### 🗑️ Recycle Bin System
 
-Deleted notes are not removed immediately.
-Instead, they move to the recycle bin.
-Notes inside recycle bin are automatically removed after 30 days.
+Deleted notes are not removed immediately
+Instead, they move to the recycle bin
+Notes inside recycle bin are automatically removed after 30 days
 
 ---
 
 ### 💾 Storage System
 
-All notes are saved locally on the device.
-The app uses **SharedPreferences** for storing notes data.
-Notes are converted into JSON format before storage.
-This helps keep data even after restarting the app.
+All notes are saved locally on the device
+The app uses **SharedPreferences** for storing notes data
+Notes are converted into JSON format before storage
+This helps keep data even after restarting the app
 
 ---
 
